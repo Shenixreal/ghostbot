@@ -1,4 +1,3 @@
-#created by Shenixreal
 
 import random
 
